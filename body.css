@@ -1,0 +1,94 @@
+.contents-wrap{
+    display:flex;
+    justify-content: center;
+}
+
+.contents{
+    width:90%;
+    background-color: #EDF0D8;
+}
+
+.final-work{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.names{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 2rem;
+    border-bottom: 2px solid #B99EBE;
+}
+
+.card{
+    display:flex;
+    flex-direction: row;
+    width:42rem;
+    margin: 3rem;
+}
+.card-box{
+    display:flex;
+    flex-direction:column;
+    width:30rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-img-top{
+    width:20rem;
+    margin: 1rem;
+}
+
+.card-image{
+    width:10rem;
+    margin:1rem;
+    display:box;
+    margin: 1rem auto;
+}
+.card-name{
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 1px solid #B99EBE;
+}
+
+.card-text{
+    line-height:3rem;
+    font-weight:bold;
+    
+}
+
+.accordion{
+    margin:3rem;
+}
+
+.contents3{
+    display: flex;
+    margin :2rem 5rem;
+
+}
+
+.container3{
+    font-weight :bold;
+    line-height: 2rem;
+    
+}
+
+.labels-final{
+    display: flex;
+    margin:1rem;
+}
+.progress{
+    margin:0.9rem;
+}
+
+.progress-bar{
+    background-color: rgb(178, 122, 231);
+}
+
+.footer {
+    height: 1.2rem;
+    line-height: 1.2rem;
+    font-size: 0.8rem;
+    text-align: center;
+    background-color: #D9D5F0;
+  }

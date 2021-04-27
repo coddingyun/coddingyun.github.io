@@ -1,0 +1,29 @@
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+p,
+ol,
+ul,
+li,
+img {
+    margin :0;
+    padding :0;
+    border:0;
+    font-size: 100%;
+    font-family: 'Noto Serif KR', serif;
+    text-decoration :none;
+}
+
+html,
+body{
+    width: 100%;
+    min-height: 100%;
+    background-color: #B99EBE;
+}

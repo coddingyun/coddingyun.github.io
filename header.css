@@ -1,0 +1,31 @@
+.header{
+    margin-top: 1rem;
+}
+
+.top-header{
+    height: 5rem;
+    background-color: #D9D5F0;
+}
+
+.top-header-text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 5rem;
+}
+.navbar{
+    height:3rem;
+    border-radius:1rem;
+    padding: 1rem 0 0 6rem;
+}
+.nav-link{
+    margin: 0 1.5rem;
+    padding: 0 0.8rem;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 3rem;
+    border-radius: 1rem 1rem 0 0;
+}
+.nav-link:hover{
+    background-color: #EDF0D8;
+}
